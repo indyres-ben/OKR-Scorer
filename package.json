@@ -1,0 +1,11 @@
+{
+  "name": "OKRScorer",
+  "version": "0.1",
+  "description": "Helper for OKR scoring session meetings",
+  "main": "index.js",
+  "author": "Ben Keener <ben@theindustrialresolution.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
